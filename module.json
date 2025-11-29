@@ -1,0 +1,33 @@
+{
+  "id": "wod-onerule",
+  "title": "WoD: 1-ки отменяют + взрывы 10 (авто)",
+  "description": "Глобально включает механику World of Darkness: взрывы 10-ок, 1-ки отменяют успехи, ботч/исключительный. Работает на бросках Xd10x10cs>=Y.",
+  "version": "1.0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "13"
+  },
+  "esmodules": [
+    "module.js"
+  ],
+  "socket": true,
+  "authors": [
+    {
+      "name": "DushesS01",
+      "url": "https://github.com/DushesS01"
+    }
+  ],
+  "relationships": {
+    "systems": []
+  },
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "manifest": "https://raw.githubusercontent.com/DushesS01/foundry-wod-onerule/main/module.json",
+  "download": "https://github.com/DushesS01/foundry-wod-onerule/archive/refs/heads/main.zip",
+  "license": "LICENSE"
+}
