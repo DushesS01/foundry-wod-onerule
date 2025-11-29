@@ -47,6 +47,7 @@
 - Foundry VTT v11 – v13  
 - World of Darkness 20th Anniversary Edition (официальная система)  
 - Любые самописные/форкнутые шиты WoD20
+- В иных случаях работает как описание через команду /roll
 
 Автор: DushesS01  
 Лицензия: MIT  
