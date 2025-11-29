@@ -1,0 +1,8 @@
+{
+  "wod-onerule.Result": "Net result",
+  "wod-onerule.Successes": "successes",
+  "wod-onerule.Exceptional": "(EXCEPTIONAL!)",
+  "wod-onerule.Botched": "BOTCH!",
+  "wod-onerule.Failure": "Failure",
+  "wod-onerule.MinusOnes": "−{count} ones"
+}

@@ -1,0 +1,8 @@
+{
+  "wod-onerule.Result": "Чистый результат",
+  "wod-onerule.Successes": "успех(ов)",
+  "wod-onerule.Exceptional": "(ИСКЛЮЧИТЕЛЬНЫЙ!)",
+  "wod-onerule.Botched": "БОТЧ!",
+  "wod-onerule.Failure": "Провал",
+  "wod-onerule.MinusOnes": "−{count} единиц"
+}
